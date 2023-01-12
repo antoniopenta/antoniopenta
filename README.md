@@ -1,11 +1,11 @@
 ### Welcome 👋
 
--  ❤️ I am passionate of building tech products and services that are needed and loved by many users.
--   😎 I am an advocate of a data-driven culture as an enabler of efficiency and innovation.  
-- 🤩 I am a mentor with the mission of helping friends and not friends to find their paths in the tech world.
+
+- ❤️ I am passionate about building technology products and services that are needed and loved by many users.
+- 😎 I am an advocate of data-driven culture as an enabler  of efficiency and innovation.
+- 🤩 I am a mentor with a mission to help friends and non-friends in their path in the tech world.
 - 👨‍💼 [My professional Path](https://www.linkedin.com/in/antonio-penta/)
 -  👨‍🎓 [Engineer and  Researcher by education](scholar.google.com/citations?user=gIGmQLUAAAAJ&hl=it)  
-
 <!--
 **antoniopenta/antoniopenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

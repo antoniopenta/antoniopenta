@@ -6,6 +6,7 @@
 - 🤩 I am a mentor with a mission to help friends and non-friends in their path in the tech world.
 - 👨‍💼 [My professional path](https://www.linkedin.com/in/antonio-penta/)
 -  👨‍🎓 [Engineer and  researcher by education](https://scholar.google.com/citations?user=gIGmQLUAAAAJ&hl=it)  
+-  🌱  Some gists : https://gist.github.com/antoniopenta/
 <!--
 **antoniopenta/antoniopenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
